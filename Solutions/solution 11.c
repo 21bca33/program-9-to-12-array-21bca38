@@ -12,7 +12,7 @@ void main()
 	printf("\n vowels in the string:");
 	for(i=0;i<strlen(s);i++)
 	{
-		if(s[i]=='a'|| s[i]=='e' ||s[i]=='i' || s[i]=='o' || s[i]=='u')
+		//if(s[i]=='a'|| s[i]=='e' ||s[i]=='i' || s[i]=='o' || s[i]=='u')
 		{
 			c++;
 			printf("%c ",s[i]);
